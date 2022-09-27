@@ -31,6 +31,7 @@ https://courses.ite.inf.ethz.ch/theo_inf_22/
 Link Zoom
 
 Monday
+
 Algo
 https://ethz.zoom.us/j/65105221745
 
@@ -44,6 +45,9 @@ Wednesday
 
 Project Behavioral Finance
 https://ethz.zoom.us/j/99106652831
+
+SysProg
+https://ethz.zoom.us/j/65093037157?pwd=ZXJFUU5GYlpzQnFZdk9ERkkxTy9pdz09
 
 
 
