@@ -3,10 +3,28 @@ Rush along ETHz
 
 Link Titan 1st Semester
 
+Monday
+
+AlgoData
+https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html
+
+Exercise
+https://ethz.zoom.us/j/65105221745
+
+Wednesday
+
+Project Behavioral Finance
+https://ethz.zoom.us/j/99106652831
+
+
+
+Friday
+
+
 Discrete Math
 https://dm.crypto.ethz.ch/
 
-Exercise Class
+Exercise
 https://ethz.zoom.us/s/65425897848
 
 Linear Algebra
@@ -15,14 +33,9 @@ https://igl.ethz.ch/teaching/linear-algebra/la2022/
 IntroProg
 https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0027-1.html
 
-AlgoData
-https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html
 
-Exercise Class
-https://ethz.zoom.us/j/65105221745
 
-Project Behavioral Finance
-https://ethz.zoom.us/j/99106652831
+
 
 
 Analysis 2
