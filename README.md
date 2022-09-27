@@ -41,7 +41,7 @@ https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0
 Analysis 2
 https://metaphor.ethz.ch/x/2022/hs/401-0213-16L/
 
-Exercise Class
+Exercise
 https://ethz.zoom.us/j/65142742332?pwd=M2ZsWmsvblZvTGJHSXVJL21WZWxiUT09
 
 Numerical CS
