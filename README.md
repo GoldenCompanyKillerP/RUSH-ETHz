@@ -43,6 +43,7 @@ Discrete Math
 https://ethz.zoom.us/s/65425897848
 
 Wednesday
+
 IntroProg
 https://ethz.zoom.us/j/69303770003
 
