@@ -19,6 +19,10 @@ Theoretical CS
 https://courses.ite.inf.ethz.ch/theo_inf_22/
 
 IntroProg
+
+https://www.lst.inf.ethz.ch/education/archive/Fall20201/einfuehrung-in-die-programmierung-i--252-0027-.html
+
+
 https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0027-1.html
 
 Analysis 2
