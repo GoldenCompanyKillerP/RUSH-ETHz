@@ -10,7 +10,7 @@ https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html
 Friday
 
 Discrete Math
-https://dm.crypto.ethz.ch/
+https:https://dm.crypto.ethz.ch/
 
 Linear Algebra
 https://igl.ethz.ch/teaching/linear-algebra/la2022/
