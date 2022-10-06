@@ -60,6 +60,10 @@ https://ethz.zoom.us/j/65093037157?pwd=ZXJFUU5GYlpzQnFZdk9ERkkxTy9pdz09
 
 
 
+Thursday
 
+Linear Algebra
+
+https://ethz.zoom.us/j/62403930061#success
 
 
