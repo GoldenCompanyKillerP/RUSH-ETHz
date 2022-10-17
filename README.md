@@ -1,5 +1,5 @@
 
-Link Zoom
+Zoom Link
 
 Monday
 
@@ -37,8 +37,7 @@ https://ethz.zoom.us/j/62403930061#success
 
 
 
-
-Link Sheets
+Exercise Link
 
 Monday
 
