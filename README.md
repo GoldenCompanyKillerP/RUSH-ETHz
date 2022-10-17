@@ -1,38 +1,3 @@
-# RUSH-ETHz
-
-Link Sheets
-
-Monday
-
-AlgoData
-https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html
-
-Friday
-
-Discrete Math
-https:https://dm.crypto.ethz.ch/
-
-Linear Algebra
-https://igl.ethz.ch/teaching/linear-algebra/la2022/
-
-Theoretical CS
-https://courses.ite.inf.ethz.ch/theo_inf_22/
-
-IntroProg
-
-https://www.lst.inf.ethz.ch/education/archive/Fall20201/einfuehrung-in-die-programmierung-i--252-0027-.html
-
-
-https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0027-1.html
-
-Analysis 2
-https://metaphor.ethz.ch/x/2022/hs/401-0213-16L/
-
-Numerical CS
-https://moodle-app2.let.ethz.ch/course/view.php?id=17727
-
-https://expert.ethz.ch/enrolled/AS22/nmcs/codeExamples
-
 
 Link Zoom
 
@@ -66,4 +31,43 @@ Linear Algebra
 
 https://ethz.zoom.us/j/62403930061#success
 
+
+
+
+
+
+
+
+Link Sheets
+
+Monday
+
+AlgoData
+https://cadmo.ethz.ch/education/lectures/HS22/DA/index.html
+
+Friday
+
+Discrete Math
+https:https://dm.crypto.ethz.ch/
+
+Linear Algebra
+https://igl.ethz.ch/teaching/linear-algebra/la2022/
+
+Theoretical CS
+https://courses.ite.inf.ethz.ch/theo_inf_22/
+
+IntroProg
+
+https://www.lst.inf.ethz.ch/education/archive/Fall20201/einfuehrung-in-die-programmierung-i--252-0027-.html
+
+
+https://www.lst.inf.ethz.ch/education/einfuehrung-in-die-programmierung-i--252-0027-1.html
+
+Analysis 2
+https://metaphor.ethz.ch/x/2022/hs/401-0213-16L/
+
+Numerical CS
+https://moodle-app2.let.ethz.ch/course/view.php?id=17727
+
+https://expert.ethz.ch/enrolled/AS22/nmcs/codeExamples
 
